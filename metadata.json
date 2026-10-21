@@ -1,0 +1,6 @@
+{
+  "name": "Trip Architect - AI Travel Advisor",
+  "description": "Intelligent travel planner and route optimizer with realistic transit estimates, multi-country destination graphs, and interactive itinerary scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
